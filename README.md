@@ -1,8 +1,10 @@
 # SQL_Scripter
 ## This repository showcases the complex, multi-entity SQL database design that underpinned a self-initiated project for a web-based screenplay platform.
 The detailed schema, covering entities from projects, scenes, and dialogues, etc. to user management, demonstrates advanced proficiency in relational database modeling and normalization.
+View the scripter_create.sql file for in depth dive.
 
 This work highlights my autonomous, self-motivated approach to technical development and my ability to independently design scalable, user-centric data models that drive powerful, productivity-enhancing applications.
+
 ### The complete Database for the entire platform including the text editor and the social media space, and the users management system
 <img width="1764" height="872" alt="scripter-2019-02-09_20_12" src="https://github.com/user-attachments/assets/9c0b6a71-c751-4e24-b058-03343684442a" />
 ### The screenplay writing editor part of the DB
